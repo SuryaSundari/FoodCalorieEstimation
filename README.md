@@ -16,15 +16,15 @@
 
 ## Steps to run the code
 
-1. **Take 5 rupee coin as reference object.**
-2. **Take two input images one from side view and other from top view by keeping reference
+1. Take 5 rupee coin as reference object.
+2. Take two input images one from side view and other from top view by keeping reference
 object at left most and make sure your background should be plane color like white or
-black while taking a photo.**
-3. **Then you should save those images in the directory where volumedetection.py placed.**
-4. **Execute the file named volumedtection.py on python ide or else you can also run through
-the command prompt by executing the command “python volumedetection.py”**
-5. **After execution it will show measurements of each food items present in the image and in
-the console it will give you the name, weight and calories of each food item separately.**
+black while taking a photo.
+3. Then you should save those images in the directory where volumedetection.py placed.
+4. Execute the file named volumedtection.py on python ide or else you can also run through
+the command prompt by executing the command “python volumedetection.py”.
+5. After execution it will show measurements of each food items present in the image and in
+the console it will give you the name, weight and calories of each food item separately.
 
 ### Installation Instructions
 
