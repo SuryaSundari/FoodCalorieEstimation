@@ -26,6 +26,9 @@ the command prompt by executing the command “python volumedetection.py”.
 5. After execution it will show measurements of each food items present in the image and in
 the console it will give you the name, weight and calories of each food item separately.
 
+## Dataset
+Dataset used is Fruit-360 [https://www.kaggle.com/moltean/fruits] for image classifications and scrapped images from internet for object detection
+
 ### Installation Instructions
 
 ```sh
