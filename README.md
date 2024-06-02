@@ -28,7 +28,7 @@ pip install pillow
 pip install matplotlib
 pip install numpy
 pip install pandas
-
+```sh
 ## Steps to run the code
 
 1. **Take 5 rupee coin as reference object.**
