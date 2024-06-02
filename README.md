@@ -2,7 +2,7 @@
 
 ## Tools Required
 
-1. **Download and install Python 3.7 (64-bit).**
+1. **Download and install Python (64-bit).**
 
 2. **Install the following packages:**
    - TensorFlow 2.0
